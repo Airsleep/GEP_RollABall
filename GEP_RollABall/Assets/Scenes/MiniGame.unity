@@ -1975,6 +1975,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   countText: {fileID: 745066111}
+  winTextObject: {fileID: 311321767}
 --- !u!1001 &1257903676
 PrefabInstance:
   m_ObjectHideFlags: 0
