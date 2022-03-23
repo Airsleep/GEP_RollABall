@@ -53,6 +53,7 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        print("tgaesesgefwage");
         if(other.gameObject.CompareTag("PickUp"))
         {
             other.gameObject.SetActive(false);
